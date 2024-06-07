@@ -1,0 +1,30 @@
+body{
+  background-color:White	;
+}
+h1{
+  text-align:center;
+  font-size:50px;
+  color:rgba(164, 38, 235, 10);
+    
+    
+    background-color:DarkMagenta	;
+  height:50px;
+}
+.left{
+  float:left;
+}
+.right{
+  float:right;
+}
+.widdle{
+  margin:100PX;
+}
+.i{
+  color:Black;
+  width:700px;
+  height:150px;
+    border:3px solid DarkMagenta ;
+  margin-left:450px;
+  font-size:30px;
+   margin-top:10px;
+}
