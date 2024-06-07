@@ -1,1 +1,0 @@
-# tehno-altyn
